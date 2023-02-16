@@ -22,7 +22,7 @@ The program preprocesses the texts by removing non-alphabetic characters and sto
 
 1. Clone the repository or download the ZIP file.
 2. Install the required packages by running the command `pip install -r requirements.txt`.
-3. Run the program by running the command `python plagiarism_checker.py`.
+3. Run the program by running the command `plagiarism_checker.py`.
 4. Follow the prompts to enter the file paths of the texts to be checked.
 
 ## How to Use the Project
